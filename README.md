@@ -2,8 +2,6 @@ Background Color Changer 🎨
 
 A simple and interactive React application that allows users to change the background color of the page with a single click. Built with modern web technologies for a smooth and responsive user experience.
 
-🚀 Live Demo
-
 
 ## 📸 Screenshot
  <img width="1919" height="971" alt="Screenshot 2025-07-27 080501" src="https://github.com/user-attachments/assets/97dbd1f2-42c9-44bc-940c-75b550ede9f4" />
